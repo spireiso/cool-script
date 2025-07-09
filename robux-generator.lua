@@ -1,3 +1,3 @@
 while true do
-warn("SKID DETECTED🚨‼️")
+warn("RETARD SKID DETECTED🚨")
 end
